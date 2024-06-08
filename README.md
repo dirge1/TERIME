@@ -3,14 +3,14 @@ This is the source code of the paper "TERIME: An improved RIME algorithm with en
 
 RIME_improve_boundary2.m represents the TERIME algorithm
 
-RIME_differential_learning.m  represents the MRIME algorithm
+RIME_differential_learning.m  represents the MRIME algorithm, reference:
 
-Hakmi S.H., Alnami H., Moustafa G., et al. Modified Rime-Ice Growth Optimizer with Polynomial Differential Learning Operator for Single-and Double-Diode PV Parameter Estimation Problem
+[1] Hakmi S.H., Alnami H., Moustafa G., et al. Modified Rime-Ice Growth Optimizer with Polynomial Differential Learning Operator for Single-and Double-Diode PV Parameter Estimation Problem
 
-DIWJAYA.m represents the DIWJAYA algorithm
+DIWJAYA.m represents the DIWJAYA algorithm, reference:
 
-Choulli I., Elyaqouti M., Hanafi Arjdal E., et al. DIWJAYA: JAYA driven by individual weights for enhanced photovoltaic model parameter estimation. Energy Conversion and Management. 2024, 305: 118258.
+[2] Choulli I., Elyaqouti M., Hanafi Arjdal E., et al. DIWJAYA: JAYA driven by individual weights for enhanced photovoltaic model parameter estimation. Energy Conversion and Management. 2024, 305: 118258.
 
-RAO_1.m represents the CL-Rao 1 algorithm
+RAO_1.m represents the CL-Rao 1 algorithm, reference:
 
-Farah A., Belazi A., Benabdallah F., et al. Parameter extraction of photovoltaic models using a comprehensive learning Rao-1 algorithm. Energy Conversion and Management. 2022, 252: 115057.
+[3] Farah A., Belazi A., Benabdallah F., et al. Parameter extraction of photovoltaic models using a comprehensive learning Rao-1 algorithm. Energy Conversion and Management. 2022, 252: 115057.
