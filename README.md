@@ -5,7 +5,7 @@ RIME_improve_boundary2.m represents the TERIME algorithm
 
 RIME_differential_learning.m  represents the MRIME algorithm, reference:
 
-[1] Hakmi S.H., Alnami H., Moustafa G., et al. Modified Rime-Ice Growth Optimizer with Polynomial Differential Learning Operator for Single-and Double-Diode PV Parameter Estimation Problem
+[1] Hakmi S.H., Alnami H., Moustafa G., et al. Modified Rime-Ice Growth Optimizer with Polynomial Differential Learning Operator for Single-and Double-Diode PV Parameter Estimation Problem. Electronics. 2024, 13(9): 1611.
 
 DIWJAYA.m represents the DIWJAYA algorithm, reference:
 
