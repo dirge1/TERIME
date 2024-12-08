@@ -3,7 +3,7 @@ This is the source code of the paper "TERIME: An improved RIME algorithm with en
 
 Paper link: https://arxiv.org/abs/2407.18986
 
-[image](https://github.com/dirge1/TERIME/blob/main/DDM_result.png)
+![image](https://github.com/dirge1/TERIME/blob/main/DDM_result.png)
 
 TERIME.m represents the TERIME algorithm
 
