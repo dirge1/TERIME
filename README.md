@@ -3,6 +3,8 @@ This is the source code of the paper "TERIME: An improved RIME algorithm with en
 
 Paper link: https://arxiv.org/abs/2407.18986
 
+(!image)[
+
 TERIME.m represents the TERIME algorithm
 
 MRIME.m  represents the MRIME algorithm, reference:
