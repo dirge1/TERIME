@@ -1,7 +1,7 @@
 # TERIME
 This is the source code of the paper "TERIME: An improved RIME algorithm with enhanced exploration and exploitation for robust parameter extraction of photovoltaic models"
 
-Paper link: https://arxiv.org/abs/2407.18986, has been accepted by Journal of Bionic Engineering.
+Paper link: https://link.springer.com/article/10.1007/s42235-025-00679-8.
 
 ![image](https://github.com/dirge1/TERIME/blob/main/DDM_result.png)
 
