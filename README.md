@@ -1,11 +1,14 @@
 # TERIME
 This is the source code of the paper "TERIME: An improved RIME algorithm with enhanced exploration and exploitation for robust parameter extraction of photovoltaic models"
 
-Ref: Chen, S. S., Jiang, Y. T., Chen W. B., Li, X. Y. TERIME: An Improved RIME Algorithm With Enhanced Exploration and Exploitation for Robust Parameter Extraction of Photovoltaic Models. Journal of Bionic Engineering. 2025, 22: 1535–1556.
-
-If you find the code useful, please give a star :)
+## Ref
+Chen, S. S., Jiang, Y. T., Chen W. B., Li, X. Y. TERIME: An Improved RIME Algorithm With Enhanced Exploration and Exploitation for Robust Parameter Extraction of Photovoltaic Models. Journal of Bionic Engineering. 2025, 22: 1535–1556.
 
 Paper link: https://link.springer.com/article/10.1007/s42235-025-00679-8.
+
+If you find the code useful, please give a star :)
+## Highlights
+
 
 ![image](https://github.com/dirge1/TERIME/blob/main/DDM_result.png)
 
