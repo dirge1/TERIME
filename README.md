@@ -8,6 +8,9 @@ Paper link: https://link.springer.com/article/10.1007/s42235-025-00679-8.
 
 If you find the code useful, please give a star :)
 ## Highlights
+	Exploration and exploitation capabilities are simultaneously enhanced.
+	Randomization and neighborhood exploitation strategies are incorporated.
+	The algorithm has superior robustness to various PV models in varying environments.
 
 
 ![image](https://github.com/dirge1/TERIME/blob/main/DDM_result.png)
