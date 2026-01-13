@@ -4,6 +4,8 @@ This is the source code of the paper "TERIME: An improved RIME algorithm with en
 ## Ref
 Chen, S. S., Jiang, Y. T., Chen W. B., Li, X. Y. TERIME: An Improved RIME Algorithm With Enhanced Exploration and Exploitation for Robust Parameter Extraction of Photovoltaic Models. Journal of Bionic Engineering. 2025, 22: 1535–1556.
 
+PDF: https://dirge1.github.io/shishun_chen.github.io/papers/Chen2026_JBE_TERIME.pdf
+
 Paper link: https://link.springer.com/article/10.1007/s42235-025-00679-8.
 
 If you find the code useful, please give a star :)
